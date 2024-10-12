@@ -1,0 +1,14 @@
+.message1{
+    border: solid 2px red;
+    text-align: center;
+}
+
+.message2{
+    border: dashed 2px red;
+    text-align: center;
+}
+
+.message3{
+    border: dotted 2px red;
+    text-align: center;
+}

@@ -1,8 +1,0 @@
-----------------------Methods------------------------------
-
-
-1. Array Methods
-
-2. String Methods
-
-3. Object Methods

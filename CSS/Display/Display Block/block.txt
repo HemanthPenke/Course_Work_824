@@ -1,0 +1,5 @@
+-------------------------Display : block;----------------------------
+
+--By default it will be block state only.
+--Which means every element occupies the width 100% in the screen. 
+--It will be like up to down.

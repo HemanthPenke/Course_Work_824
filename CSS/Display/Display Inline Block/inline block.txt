@@ -1,0 +1,5 @@
+-------------------------Display : inline-block;----------------------------
+
+
+--It will be like left to right.
+--It will access the heigth and width.

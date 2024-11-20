@@ -1,0 +1,5 @@
+-------------------------Display : inline;----------------------------
+
+
+--It will be like left to right.
+--It will not access the heigth and width.

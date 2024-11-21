@@ -1,0 +1,50 @@
+.container{
+    border: solid 2px black;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    
+
+} 
+
+.apple{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    z-index: -10;
+    
+    
+}
+
+.mango{
+    height: 70px;
+    width: 70px;
+    background-color: green;
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    
+
+}
+
+.grapes{
+    height: 70px;
+    width: 70px;
+    background-color: blue;
+    display: inline-block;
+    position: absolute;
+    
+
+}
+
+.papaya{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: inline-block;
+    position: absolute;
+    
+
+}

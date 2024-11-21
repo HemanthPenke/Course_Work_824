@@ -1,0 +1,9 @@
+--------------------------------position: relative---------------------------------------
+
+--The positon relative is the position we can keep the object any where in the screen.
+--It has four helping porperties
+
+->top
+->bottom
+->left
+->right

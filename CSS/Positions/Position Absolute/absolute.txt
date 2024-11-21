@@ -1,0 +1,9 @@
+--------------------------------position: relative---------------------------------------
+
+--The positon absolute is the position we can keep the object any where in the screen comes out from the conatianer it will became free.
+--It has four helping porperties
+
+->top
+->bottom
+->left
+->right

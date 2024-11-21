@@ -1,0 +1,27 @@
+.container{
+    border: solid 2px black;
+    margin: 20px;
+    padding: 20px;
+
+} 
+
+.apple{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    left: 160px;
+    top: 100px;
+}
+
+.mango{
+    height: 70px;
+    width: 70px;
+    background-color: green;
+    display: inline-block;
+    position: relative;
+    right:40px;
+
+}
+

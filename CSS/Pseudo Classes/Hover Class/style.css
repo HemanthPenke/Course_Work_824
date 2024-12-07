@@ -1,0 +1,19 @@
+.image{
+    margin: 200px;
+    height: 100px;
+    width: 100px;
+
+
+
+}
+
+.image img{
+    width: 100%;
+}
+
+.image:hover{
+    height: 700px;
+    width: 700px;
+    margin-left: 5px;
+
+}

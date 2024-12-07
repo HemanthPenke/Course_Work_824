@@ -1,0 +1,14 @@
+button{
+      margin-top: 50%;
+      padding: 20px;
+}
+
+body{
+    justify-items: center;
+}
+
+button:active{
+    background-color: blue;
+    
+}
+

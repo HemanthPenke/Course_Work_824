@@ -1,0 +1,30 @@
+.one p::before{
+    content: "Hii I am Aditya ";
+    color: red;
+
+}
+
+.two p::after{
+    content: "Hii I am Aditya ";
+    color: red;
+}
+
+.three p::first-letter{
+    color: red;
+}
+
+.four p::first-line{
+    color: red;
+}
+
+.five input::placeholder{
+    color: red;
+}
+
+body{
+    justify-items: center;
+}
+
+p{
+    text-align: justify;
+}

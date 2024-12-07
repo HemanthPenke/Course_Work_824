@@ -1,24 +1,9 @@
-.paper{
-    
-    font-weight: 100;
-    background-color: red;
+img{
     position: fixed;
-    width: 100%;
-    
-    
-    
+    bottom: 0px;
+    right: 0px;
+    height: 70px;
 }
-
-.paper p{
-    display: inline-block;
-    padding: 8px;
-    
-    
-    
-}
-.para p{
-
-    position: relative;
-    top: 65px;
-
+p{
+    text-align: justify;
 }

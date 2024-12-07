@@ -1,0 +1,41 @@
+.img1{
+    display: inline-block;
+    border: solid 3px black;
+    
+}
+
+.img2{
+    display: inline-block;
+    border: solid 3px black;
+    border-radius: 50%;
+    
+}
+
+.img3{
+    display: inline-block;
+    border: solid 3px black;
+    border-radius: 30px;
+    
+}
+
+.img1 img{
+    width: 100%;
+
+}
+
+.img2 img{
+    width: 100%;
+    border-radius: 50%;
+
+}
+
+.img3 img{
+    width: 100%;
+    border-radius: 30px;
+
+
+}
+
+body{
+    justify-items: center;
+}

@@ -1,0 +1,13 @@
+
+
+body{
+    justify-items: center;
+}
+
+
+input[type=checkbox]:checked+label{
+    color: green;
+    font-weight: bold;
+}
+
+

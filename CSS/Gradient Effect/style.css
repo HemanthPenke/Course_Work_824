@@ -1,0 +1,17 @@
+.one {
+    background: linear-gradient(to right, lightblue,blue);
+    height: 100px;
+    width: 100px;
+}
+
+.two {
+    background: radial-gradient(circle, lightblue,blue);
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    margin-top: 200px;
+    justify-items: center;
+}
+
